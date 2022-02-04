@@ -14,7 +14,7 @@ Scoring will be based on the speed, the number of words needed to create the cha
 ## Running the application
 
 1. Install the .NET 6 SDK
-2. Navigate to the WoerdChain folder
+2. Navigate to the WordChain folder
 3. Run `dotnet run`
 4. Enter a start word
 5. Enter an end word
